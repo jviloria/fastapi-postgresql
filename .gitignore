@@ -1,0 +1,8 @@
+*.tar
+*.bz2
+*.zip
+__pycache__/
+*.pyc
+*.cfg
+*.cnf
+
